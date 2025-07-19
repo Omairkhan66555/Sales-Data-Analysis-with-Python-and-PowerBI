@@ -1,0 +1,55 @@
+CUSTOMERNAME,Recency,Frequency,Monetary,R_Score,F_Score,M_Score,RFM_Segment,RFM_Score,Segment
+"AV Stores, Co.",195,3,136873.25,2,2,5,225,9,Potential
+Alpha Cognac,64,3,58885.28,4,2,2,422,8,Potential
+Amica Models & Co.,264,2,72645.01,1,1,2,112,4,At Risk
+"Anna's Decorations, Ltd",83,4,121260.41,4,4,5,445,13,Champions
+Atelier graphique,187,3,21213.16,3,2,1,321,6,At Risk
+"Australian Collectables, Ltd",22,3,56139.62,5,2,2,522,9,Potential
+"Australian Collectors, Co.",183,5,164575.87,3,5,5,355,13,Champions
+"Australian Gift Network, Co",118,3,46399.18,4,2,1,421,7,Potential
+Auto Assoc. & Cie.,232,2,53364.97,2,1,1,211,4,At Risk
+Auto Canal Petit,54,3,79857.6,4,2,3,423,9,Potential
+Baane Mini Imports,207,4,95223.90000000001,2,4,4,244,10,Loyal Customers
+"Bavarian Collectables Imports, Co.",258,1,32701.58,1,1,1,111,3,Lost
+"Blauer See Auto, Co.",207,4,66945.37,2,4,2,242,8,Potential
+CAF Imports,438,2,40655.72,1,1,1,111,3,Lost
+"Clover Collections, Co.",257,2,43237.24,1,1,1,111,3,Lost
+"Corrida Auto Replicas, Ltd",211,3,95243.42,2,2,4,224,8,Potential
+Cruz & Sons Co.,196,3,80291.17,2,2,3,223,7,Potential
+Daedalus Designs Imports,465,2,56856.39,1,1,2,112,4,At Risk
+Danish Wholesale Imports,46,5,115268.84,5,5,4,554,14,Champions
+"Double Decker Gift Stores, Ltd",495,2,31550.77,1,1,1,111,3,Lost
+"Dragon Souveniers, Ltd.",90,5,131279.95,4,5,5,455,14,Champions
+Enaco Distributors,188,3,73927.0,3,3,3,333,9,Potential
+Euro Shopping Channel,0,26,766195.05,5,5,5,555,15,Champions
+Handji Gifts& Co,38,4,96705.55,5,4,4,544,13,Champions
+Heintze Collectables,221,2,77478.79,2,1,3,213,6,At Risk
+Herkku Gifts,270,3,86339.11,1,3,3,133,7,Potential
+"Iberia Gift Imports, Corp.",237,2,45684.78,2,1,1,211,4,At Risk
+L'ordine Souveniers,21,3,109614.22,5,3,4,534,12,Loyal Customers
+"La Corne D'abondance, Co.",192,3,73965.52,3,3,3,333,9,Potential
+La Rochelle Gifts,0,4,153909.82,5,5,5,555,15,Champions
+Lyon Souveniers,75,3,59136.7,4,3,2,432,9,Potential
+Marseille Mini Autos,145,3,61161.119999999995,3,3,2,332,8,Potential
+Mini Auto Werke,82,3,46505.2,4,3,1,431,8,Potential
+Mini Caravy,47,3,65824.33,5,3,2,532,10,Loyal Customers
+"Norway Gifts By Mail, Co.",283,2,64552.79,1,1,2,112,4,At Risk
+Osaka Souveniers Co.,413,2,55620.65,1,1,1,111,3,Lost
+"Oulu Toy Supplies, Inc.",120,3,90762.29,3,3,4,334,10,Loyal Customers
+Petit Auto,1,3,68568.18,5,3,2,532,10,Loyal Customers
+Reims Collectables,62,5,116502.73,4,5,5,455,14,Champions
+Rovelli Gifts,200,3,127143.64,2,4,5,245,11,Loyal Customers
+Royale Belge,141,4,25960.7,3,5,1,351,9,Potential
+Salzburg Collectables,14,4,126287.85,5,5,5,555,15,Champions
+"Saveley & Henriot, Co.",455,3,118580.23,1,4,5,145,10,Loyal Customers
+Scandinavian Gift Ideas,89,3,115889.89,4,4,4,444,12,Loyal Customers
+Souveniers And Things Co.,2,4,133223.38,5,5,5,555,15,Champions
+"Stylish Desk Decors, Co.",179,3,78358.6,3,4,3,343,10,Loyal Customers
+Suominen Souveniers,145,3,88753.26,3,4,3,343,10,Loyal Customers
+"Tokyo Collectables, Ltd",39,4,97456.04,5,5,4,554,14,Champions
+"Toms Spezialitten, Ltd",227,2,79042.13,2,2,3,223,7,Potential
+"Toys of Finland, Co.",111,3,89199.15000000001,4,4,4,444,12,Loyal Customers
+"UK Collectables, Ltd.",53,3,93250.59,4,4,4,444,12,Loyal Customers
+"Vida Sport, Ltd",274,2,93344.91,1,2,4,124,7,Potential
+"Volvo Model Replicas, Co",193,4,58374.21,3,5,2,352,10,Loyal Customers
+giftsbymail.co.uk,211,2,73170.13,2,2,3,223,7,Potential
