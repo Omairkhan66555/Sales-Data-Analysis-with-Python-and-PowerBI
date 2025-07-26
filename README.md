@@ -33,7 +33,8 @@ The goal of this project is to understand customer behavior, identify valuable c
 
 ## Dashboard Preview
 
-![Sales Dashboard](Sales%20Dashboard.png)
+![Sales Dashboard](https://github.com/username/repo-name/blob/main/images/Sale%20Dashboard%20Power%20Bi.png)
+
 
 
 ## How to Use
