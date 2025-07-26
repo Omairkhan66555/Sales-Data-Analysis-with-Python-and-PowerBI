@@ -32,7 +32,9 @@ The goal of this project is to understand customer behavior, identify valuable c
 - `README.md`: Project documentation
 
 ## Dashboard Preview
-Sales Dashboard.png
+
+![Sales Dashboard](Sales%20Dashboard.png)
+
 
 ## How to Use
 
