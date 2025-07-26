@@ -31,6 +31,9 @@ The goal of this project is to understand customer behavior, identify valuable c
 - `dashboard_screenshot.png`: Preview of Power BI Dashboard
 - `README.md`: Project documentation
 
+## Dashboard Preview
+Sales Dashboard.png
+
 ## How to Use
 
 1. Run the Jupyter Notebook to process and analyze data.
